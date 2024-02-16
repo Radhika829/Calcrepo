@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\Phase4\CalcExample\CalcExample\bin\Debug\net6.0\CalcExample.exe
+C:\Users\HP\Documents\Phase4\CalcExample\CalcExample\bin\Debug\net6.0\CalcExample.deps.json
+C:\Users\HP\Documents\Phase4\CalcExample\CalcExample\bin\Debug\net6.0\CalcExample.runtimeconfig.json
+C:\Users\HP\Documents\Phase4\CalcExample\CalcExample\bin\Debug\net6.0\CalcExample.dll
+C:\Users\HP\Documents\Phase4\CalcExample\CalcExample\bin\Debug\net6.0\CalcExample.pdb
+C:\Users\HP\Documents\Phase4\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Phase4\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Phase4\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.AssemblyInfo.cs
+C:\Users\HP\Documents\Phase4\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Phase4\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.dll
+C:\Users\HP\Documents\Phase4\CalcExample\CalcExample\obj\Debug\net6.0\refint\CalcExample.dll
+C:\Users\HP\Documents\Phase4\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.pdb
+C:\Users\HP\Documents\Phase4\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.genruntimeconfig.cache
+C:\Users\HP\Documents\Phase4\CalcExample\CalcExample\obj\Debug\net6.0\ref\CalcExample.dll
