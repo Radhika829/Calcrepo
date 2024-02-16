@@ -24,5 +24,9 @@ namespace CalcExample
         {
             Console.WriteLine("result after division:\t" + (n1 / n2));
         }
+        public void Avg(double n1, double n2)
+        {
+            Console.WriteLine("result after division:\t" + (n1 / n2)/2);
+        }
     }
 }
